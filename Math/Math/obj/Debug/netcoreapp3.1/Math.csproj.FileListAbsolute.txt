@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\Math\Math\bin\Debug\netcoreapp3.1\Math.exe
+F:\Dev\C-Sharp\Math\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+F:\Dev\C-Sharp\Math\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+F:\Dev\C-Sharp\Math\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+F:\Dev\C-Sharp\Math\Math\bin\Debug\netcoreapp3.1\Math.dll
+F:\Dev\C-Sharp\Math\Math\bin\Debug\netcoreapp3.1\Math.pdb
+F:\Dev\C-Sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+F:\Dev\C-Sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.dll
+F:\Dev\C-Sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.pdb
+F:\Dev\C-Sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache
