@@ -1,0 +1,12 @@
+F:\Dev\C-Sharp\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.exe
+F:\Dev\C-Sharp\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.deps.json
+F:\Dev\C-Sharp\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.json
+F:\Dev\C-Sharp\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.dev.json
+F:\Dev\C-Sharp\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.dll
+F:\Dev\C-Sharp\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.pdb
+F:\Dev\C-Sharp\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfo.cs
+F:\Dev\C-Sharp\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.dll
+F:\Dev\C-Sharp\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.pdb
+F:\Dev\C-Sharp\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.genruntimeconfig.cache
