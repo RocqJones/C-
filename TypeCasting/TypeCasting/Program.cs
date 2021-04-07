@@ -8,9 +8,11 @@ namespace TypeCasting
         {
             double myDouble = 74.87;
             int myInt = (int) myDouble;
+            bool myBool = true;
 
             Console.WriteLine(myDouble);
             Console.WriteLine(myInt);
+            Console.WriteLine(Convert.ToString(myBool));
         }
     }
 }
