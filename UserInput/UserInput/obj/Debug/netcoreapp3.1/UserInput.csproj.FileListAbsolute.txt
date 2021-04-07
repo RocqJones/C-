@@ -10,3 +10,4 @@ F:\Dev\C-Sharp\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.csproj.Core
 F:\Dev\C-Sharp\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.dll
 F:\Dev\C-Sharp\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.pdb
 F:\Dev\C-Sharp\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.genruntimeconfig.cache
+F:\Dev\C-Sharp\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.csprojAssemblyReference.cache
