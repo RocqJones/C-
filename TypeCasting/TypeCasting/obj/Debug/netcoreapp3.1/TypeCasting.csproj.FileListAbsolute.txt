@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.exe
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.deps.json
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.runtimeconfig.json
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.runtimeconfig.dev.json
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.dll
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.pdb
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.AssemblyInfo.cs
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.dll
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.pdb
+F:\Dev\C-Sharp\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.genruntimeconfig.cache
