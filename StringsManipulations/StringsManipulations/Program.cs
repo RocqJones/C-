@@ -22,6 +22,15 @@ namespace StringsManipulations
             Console.WriteLine("To Uppercase: " + name.ToUpper());
             Console.WriteLine("String Concatenation: " + cnc);
             Console.WriteLine(irp);
+
+            // Indexing
+            Console.WriteLine(txt[1]);
+            Console.WriteLine(txt.IndexOf("R"));
+
+            // Substrings - We need to extrach the youtube unique url id
+            string ytUrl = "https://youtu.be/TiGUt_3I8v8";
+            int charPosition = ytUrl.IndexOf(".be/");
+            Console.WriteLine(ytUrl.Substring(charPosition));
         }
     }
 }
