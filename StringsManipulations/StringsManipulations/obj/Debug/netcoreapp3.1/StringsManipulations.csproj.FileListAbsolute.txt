@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\bin\Debug\netcoreapp3.1\StringsManipulations.exe
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\bin\Debug\netcoreapp3.1\StringsManipulations.deps.json
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\bin\Debug\netcoreapp3.1\StringsManipulations.runtimeconfig.json
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\bin\Debug\netcoreapp3.1\StringsManipulations.runtimeconfig.dev.json
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\bin\Debug\netcoreapp3.1\StringsManipulations.dll
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\bin\Debug\netcoreapp3.1\StringsManipulations.pdb
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\obj\Debug\netcoreapp3.1\StringsManipulations.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\obj\Debug\netcoreapp3.1\StringsManipulations.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\obj\Debug\netcoreapp3.1\StringsManipulations.AssemblyInfo.cs
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\obj\Debug\netcoreapp3.1\StringsManipulations.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\obj\Debug\netcoreapp3.1\StringsManipulations.dll
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\obj\Debug\netcoreapp3.1\StringsManipulations.pdb
+F:\Dev\C-Sharp\StringsManipulations\StringsManipulations\obj\Debug\netcoreapp3.1\StringsManipulations.genruntimeconfig.cache
