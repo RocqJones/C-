@@ -16,7 +16,7 @@ namespace UserInput
             Console.WriteLine("Your age?");
             int uAge = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Your full name is: " + fName + " " + sName + " and you are " + uAge + " years old");
+            Console.WriteLine("Your full name is: " + fName + " " + sName + " and you are " + uAge + " years old.");
         }
     }
 }
