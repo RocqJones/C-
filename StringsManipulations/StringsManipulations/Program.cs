@@ -11,11 +11,12 @@ namespace StringsManipulations
             string txt2 = " is lengendary";
 
             // string Concatenation
-            string cnc = name + txt2;
+            string cnc = string.Concat(name, txt2);
 
             Console.WriteLine("The txt Lenghth is: " + txt.Length);
             Console.WriteLine("To lowercase: " + txt.ToLower());
             Console.WriteLine("To Uppercase: " + name.ToUpper());
+            Console.WriteLine("String Concatenation: " + cnc);
         }
     }
 }
