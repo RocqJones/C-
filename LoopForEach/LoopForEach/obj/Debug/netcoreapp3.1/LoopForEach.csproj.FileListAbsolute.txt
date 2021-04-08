@@ -1,0 +1,12 @@
+F:\Dev\C-Sharp\LoopForEach\LoopForEach\bin\Debug\netcoreapp3.1\LoopForEach.exe
+F:\Dev\C-Sharp\LoopForEach\LoopForEach\bin\Debug\netcoreapp3.1\LoopForEach.deps.json
+F:\Dev\C-Sharp\LoopForEach\LoopForEach\bin\Debug\netcoreapp3.1\LoopForEach.runtimeconfig.json
+F:\Dev\C-Sharp\LoopForEach\LoopForEach\bin\Debug\netcoreapp3.1\LoopForEach.runtimeconfig.dev.json
+F:\Dev\C-Sharp\LoopForEach\LoopForEach\bin\Debug\netcoreapp3.1\LoopForEach.dll
+F:\Dev\C-Sharp\LoopForEach\LoopForEach\bin\Debug\netcoreapp3.1\LoopForEach.pdb
+F:\Dev\C-Sharp\LoopForEach\LoopForEach\obj\Debug\netcoreapp3.1\LoopForEach.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\LoopForEach\LoopForEach\obj\Debug\netcoreapp3.1\LoopForEach.AssemblyInfo.cs
+F:\Dev\C-Sharp\LoopForEach\LoopForEach\obj\Debug\netcoreapp3.1\LoopForEach.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\LoopForEach\LoopForEach\obj\Debug\netcoreapp3.1\LoopForEach.dll
+F:\Dev\C-Sharp\LoopForEach\LoopForEach\obj\Debug\netcoreapp3.1\LoopForEach.pdb
+F:\Dev\C-Sharp\LoopForEach\LoopForEach\obj\Debug\netcoreapp3.1\LoopForEach.genruntimeconfig.cache
