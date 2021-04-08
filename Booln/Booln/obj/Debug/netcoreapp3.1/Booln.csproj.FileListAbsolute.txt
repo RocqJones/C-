@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Booln\Booln\bin\Debug\netcoreapp3.1\Booln.exe
+C:\Users\HP\source\repos\Booln\Booln\bin\Debug\netcoreapp3.1\Booln.deps.json
+C:\Users\HP\source\repos\Booln\Booln\bin\Debug\netcoreapp3.1\Booln.runtimeconfig.json
+C:\Users\HP\source\repos\Booln\Booln\bin\Debug\netcoreapp3.1\Booln.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Booln\Booln\bin\Debug\netcoreapp3.1\Booln.dll
+C:\Users\HP\source\repos\Booln\Booln\bin\Debug\netcoreapp3.1\Booln.pdb
+C:\Users\HP\source\repos\Booln\Booln\obj\Debug\netcoreapp3.1\Booln.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Booln\Booln\obj\Debug\netcoreapp3.1\Booln.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Booln\Booln\obj\Debug\netcoreapp3.1\Booln.AssemblyInfo.cs
+C:\Users\HP\source\repos\Booln\Booln\obj\Debug\netcoreapp3.1\Booln.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Booln\Booln\obj\Debug\netcoreapp3.1\Booln.dll
+C:\Users\HP\source\repos\Booln\Booln\obj\Debug\netcoreapp3.1\Booln.pdb
+C:\Users\HP\source\repos\Booln\Booln\obj\Debug\netcoreapp3.1\Booln.genruntimeconfig.cache
