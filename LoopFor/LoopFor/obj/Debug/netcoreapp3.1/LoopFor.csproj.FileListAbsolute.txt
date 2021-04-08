@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\LoopFor\LoopFor\bin\Debug\netcoreapp3.1\LoopFor.exe
+F:\Dev\C-Sharp\LoopFor\LoopFor\bin\Debug\netcoreapp3.1\LoopFor.deps.json
+F:\Dev\C-Sharp\LoopFor\LoopFor\bin\Debug\netcoreapp3.1\LoopFor.runtimeconfig.json
+F:\Dev\C-Sharp\LoopFor\LoopFor\bin\Debug\netcoreapp3.1\LoopFor.runtimeconfig.dev.json
+F:\Dev\C-Sharp\LoopFor\LoopFor\bin\Debug\netcoreapp3.1\LoopFor.dll
+F:\Dev\C-Sharp\LoopFor\LoopFor\bin\Debug\netcoreapp3.1\LoopFor.pdb
+F:\Dev\C-Sharp\LoopFor\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\LoopFor\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.AssemblyInfo.cs
+F:\Dev\C-Sharp\LoopFor\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\LoopFor\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.dll
+F:\Dev\C-Sharp\LoopFor\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.pdb
+F:\Dev\C-Sharp\LoopFor\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.genruntimeconfig.cache
+F:\Dev\C-Sharp\LoopFor\LoopFor\obj\Debug\netcoreapp3.1\LoopFor.csprojAssemblyReference.cache
