@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\bin\Debug\netcoreapp3.1\LoopDoWhile.exe
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\bin\Debug\netcoreapp3.1\LoopDoWhile.deps.json
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\bin\Debug\netcoreapp3.1\LoopDoWhile.runtimeconfig.json
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\bin\Debug\netcoreapp3.1\LoopDoWhile.runtimeconfig.dev.json
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\bin\Debug\netcoreapp3.1\LoopDoWhile.dll
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\bin\Debug\netcoreapp3.1\LoopDoWhile.pdb
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\obj\Debug\netcoreapp3.1\LoopDoWhile.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\obj\Debug\netcoreapp3.1\LoopDoWhile.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\obj\Debug\netcoreapp3.1\LoopDoWhile.AssemblyInfo.cs
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\obj\Debug\netcoreapp3.1\LoopDoWhile.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\obj\Debug\netcoreapp3.1\LoopDoWhile.dll
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\obj\Debug\netcoreapp3.1\LoopDoWhile.pdb
+F:\Dev\C-Sharp\LoopDoWhile\LoopDoWhile\obj\Debug\netcoreapp3.1\LoopDoWhile.genruntimeconfig.cache
