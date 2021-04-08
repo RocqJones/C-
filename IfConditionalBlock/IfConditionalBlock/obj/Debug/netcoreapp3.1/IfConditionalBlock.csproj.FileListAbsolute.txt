@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\bin\Debug\netcoreapp3.1\IfConditionalBlock.exe
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\bin\Debug\netcoreapp3.1\IfConditionalBlock.deps.json
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\bin\Debug\netcoreapp3.1\IfConditionalBlock.runtimeconfig.json
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\bin\Debug\netcoreapp3.1\IfConditionalBlock.runtimeconfig.dev.json
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\bin\Debug\netcoreapp3.1\IfConditionalBlock.dll
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\bin\Debug\netcoreapp3.1\IfConditionalBlock.pdb
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\obj\Debug\netcoreapp3.1\IfConditionalBlock.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\obj\Debug\netcoreapp3.1\IfConditionalBlock.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\obj\Debug\netcoreapp3.1\IfConditionalBlock.AssemblyInfo.cs
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\obj\Debug\netcoreapp3.1\IfConditionalBlock.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\obj\Debug\netcoreapp3.1\IfConditionalBlock.dll
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\obj\Debug\netcoreapp3.1\IfConditionalBlock.pdb
+F:\Dev\C-Sharp\IfConditionalBlock\IfConditionalBlock\obj\Debug\netcoreapp3.1\IfConditionalBlock.genruntimeconfig.cache
