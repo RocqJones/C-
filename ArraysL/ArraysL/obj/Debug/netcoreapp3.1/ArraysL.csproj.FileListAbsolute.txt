@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\ArraysL\ArraysL\bin\Debug\netcoreapp3.1\ArraysL.exe
+F:\Dev\C-Sharp\ArraysL\ArraysL\bin\Debug\netcoreapp3.1\ArraysL.deps.json
+F:\Dev\C-Sharp\ArraysL\ArraysL\bin\Debug\netcoreapp3.1\ArraysL.runtimeconfig.json
+F:\Dev\C-Sharp\ArraysL\ArraysL\bin\Debug\netcoreapp3.1\ArraysL.runtimeconfig.dev.json
+F:\Dev\C-Sharp\ArraysL\ArraysL\bin\Debug\netcoreapp3.1\ArraysL.dll
+F:\Dev\C-Sharp\ArraysL\ArraysL\bin\Debug\netcoreapp3.1\ArraysL.pdb
+F:\Dev\C-Sharp\ArraysL\ArraysL\obj\Debug\netcoreapp3.1\ArraysL.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\ArraysL\ArraysL\obj\Debug\netcoreapp3.1\ArraysL.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\ArraysL\ArraysL\obj\Debug\netcoreapp3.1\ArraysL.AssemblyInfo.cs
+F:\Dev\C-Sharp\ArraysL\ArraysL\obj\Debug\netcoreapp3.1\ArraysL.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\ArraysL\ArraysL\obj\Debug\netcoreapp3.1\ArraysL.dll
+F:\Dev\C-Sharp\ArraysL\ArraysL\obj\Debug\netcoreapp3.1\ArraysL.pdb
+F:\Dev\C-Sharp\ArraysL\ArraysL\obj\Debug\netcoreapp3.1\ArraysL.genruntimeconfig.cache
