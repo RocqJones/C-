@@ -31,6 +31,7 @@ namespace ArraysL
                 Console.WriteLine(k);
             }
 
+            // System.Linq Namespace
             Console.WriteLine("Max: " + myNumbers.Max());  // returns the largest value
             Console.WriteLine("Min: " + myNumbers.Min());  // returns the smallest value
             Console.WriteLine("Sum: " + myNumbers.Sum());  // returns the sum of elements
