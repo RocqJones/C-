@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\bin\Debug\netcoreapp3.1\SwitchStmt.exe
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\bin\Debug\netcoreapp3.1\SwitchStmt.deps.json
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\bin\Debug\netcoreapp3.1\SwitchStmt.runtimeconfig.json
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\bin\Debug\netcoreapp3.1\SwitchStmt.runtimeconfig.dev.json
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\bin\Debug\netcoreapp3.1\SwitchStmt.dll
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\bin\Debug\netcoreapp3.1\SwitchStmt.pdb
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\obj\Debug\netcoreapp3.1\SwitchStmt.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\obj\Debug\netcoreapp3.1\SwitchStmt.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\obj\Debug\netcoreapp3.1\SwitchStmt.AssemblyInfo.cs
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\obj\Debug\netcoreapp3.1\SwitchStmt.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\obj\Debug\netcoreapp3.1\SwitchStmt.dll
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\obj\Debug\netcoreapp3.1\SwitchStmt.pdb
+F:\Dev\C-Sharp\SwitchStmt\SwitchStmt\obj\Debug\netcoreapp3.1\SwitchStmt.genruntimeconfig.cache
