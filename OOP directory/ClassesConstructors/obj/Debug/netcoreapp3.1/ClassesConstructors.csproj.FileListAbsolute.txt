@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\bin\Debug\netcoreapp3.1\ClassesConstructors.exe
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\bin\Debug\netcoreapp3.1\ClassesConstructors.deps.json
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\bin\Debug\netcoreapp3.1\ClassesConstructors.runtimeconfig.json
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\bin\Debug\netcoreapp3.1\ClassesConstructors.runtimeconfig.dev.json
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\bin\Debug\netcoreapp3.1\ClassesConstructors.dll
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\bin\Debug\netcoreapp3.1\ClassesConstructors.pdb
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\obj\Debug\netcoreapp3.1\ClassesConstructors.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\obj\Debug\netcoreapp3.1\ClassesConstructors.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\obj\Debug\netcoreapp3.1\ClassesConstructors.AssemblyInfo.cs
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\obj\Debug\netcoreapp3.1\ClassesConstructors.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\obj\Debug\netcoreapp3.1\ClassesConstructors.dll
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\obj\Debug\netcoreapp3.1\ClassesConstructors.pdb
+F:\Dev\C-Sharp\OOP directory\ClassesConstructors\obj\Debug\netcoreapp3.1\ClassesConstructors.genruntimeconfig.cache
