@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\ClassesAndObjects\\ClassesAndObjects\\ClassesAndObjects.csproj": {}
+    "F:\\Dev\\C-Sharp\\OOP directory\\ClassesAndObjects\\ClassesAndObjects\\ClassesAndObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\ClassesAndObjects\\ClassesAndObjects\\ClassesAndObjects.csproj": {
+    "F:\\Dev\\C-Sharp\\OOP directory\\ClassesAndObjects\\ClassesAndObjects\\ClassesAndObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ClassesAndObjects\\ClassesAndObjects\\ClassesAndObjects.csproj",
+        "projectUniqueName": "F:\\Dev\\C-Sharp\\OOP directory\\ClassesAndObjects\\ClassesAndObjects\\ClassesAndObjects.csproj",
         "projectName": "ClassesAndObjects",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\ClassesAndObjects\\ClassesAndObjects\\ClassesAndObjects.csproj",
+        "projectPath": "F:\\Dev\\C-Sharp\\OOP directory\\ClassesAndObjects\\ClassesAndObjects\\ClassesAndObjects.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\ClassesAndObjects\\ClassesAndObjects\\obj\\",
+        "outputPath": "F:\\Dev\\C-Sharp\\OOP directory\\ClassesAndObjects\\ClassesAndObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
