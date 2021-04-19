@@ -39,3 +39,10 @@ class Person
 * **Fields can be made read-only** (if you only use the get method), or **write-only** (if you only use the set method)
 * **Flexible**: the programmer can change one part of the code without affecting other parts
 * Increased security of data
+
+## Inheritance (Derived and Base Class).
+It is possible to **inherit fields** and **methods** from one class to another. We group the "inheritance concept" into two categories
+* **Derived Class (child)** - the class that inherits from another class.
+* **Base Class (parent)** - the class being inherited from.
+
+To inherit from a class, use the `:` symbol.
