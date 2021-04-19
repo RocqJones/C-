@@ -14,3 +14,18 @@ Everything in C# is associated with classes and objects, along with its attribut
 **Encapsulation**, is to make sure that *"sensitive" data is hidden from users*. To achieve this, you must:
 * declare fields/variables as `private`
 * provide `public` `get` and `set` methods, through **properties**, to access and update the value of a `private` field
+
+A **property** is like a combination of a variable and a method, and it has two methods: a get and a set method:
+### Example.
+```c#
+class Person
+{
+  private string name; // field
+
+  public string Name   // property
+  {
+    get { return name; }   // get method
+    set { name = value; }  // set method
+  }
+}
+```
