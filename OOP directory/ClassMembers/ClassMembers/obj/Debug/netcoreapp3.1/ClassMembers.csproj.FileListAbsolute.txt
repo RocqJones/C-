@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\bin\Debug\netcoreapp3.1\ClassMembers.exe
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\bin\Debug\netcoreapp3.1\ClassMembers.deps.json
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\bin\Debug\netcoreapp3.1\ClassMembers.runtimeconfig.json
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\bin\Debug\netcoreapp3.1\ClassMembers.runtimeconfig.dev.json
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\bin\Debug\netcoreapp3.1\ClassMembers.dll
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\bin\Debug\netcoreapp3.1\ClassMembers.pdb
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\obj\Debug\netcoreapp3.1\ClassMembers.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\obj\Debug\netcoreapp3.1\ClassMembers.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\obj\Debug\netcoreapp3.1\ClassMembers.AssemblyInfo.cs
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\obj\Debug\netcoreapp3.1\ClassMembers.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\obj\Debug\netcoreapp3.1\ClassMembers.dll
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\obj\Debug\netcoreapp3.1\ClassMembers.pdb
+F:\Dev\C-Sharp\OOP directory\ClassMembers\ClassMembers\obj\Debug\netcoreapp3.1\ClassMembers.genruntimeconfig.cache
