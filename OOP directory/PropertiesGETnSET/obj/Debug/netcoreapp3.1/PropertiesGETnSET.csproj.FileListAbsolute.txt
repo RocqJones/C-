@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\bin\Debug\netcoreapp3.1\PropertiesGETnSET.exe
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\bin\Debug\netcoreapp3.1\PropertiesGETnSET.deps.json
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\bin\Debug\netcoreapp3.1\PropertiesGETnSET.runtimeconfig.json
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\bin\Debug\netcoreapp3.1\PropertiesGETnSET.runtimeconfig.dev.json
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\bin\Debug\netcoreapp3.1\PropertiesGETnSET.dll
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\bin\Debug\netcoreapp3.1\PropertiesGETnSET.pdb
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\obj\Debug\netcoreapp3.1\PropertiesGETnSET.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\obj\Debug\netcoreapp3.1\PropertiesGETnSET.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\obj\Debug\netcoreapp3.1\PropertiesGETnSET.AssemblyInfo.cs
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\obj\Debug\netcoreapp3.1\PropertiesGETnSET.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\obj\Debug\netcoreapp3.1\PropertiesGETnSET.dll
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\obj\Debug\netcoreapp3.1\PropertiesGETnSET.pdb
+F:\Dev\C-Sharp\OOP directory\PropertiesGETnSET\obj\Debug\netcoreapp3.1\PropertiesGETnSET.genruntimeconfig.cache
