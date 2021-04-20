@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\OOP directory\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+F:\Dev\C-Sharp\OOP directory\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+F:\Dev\C-Sharp\OOP directory\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+F:\Dev\C-Sharp\OOP directory\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+F:\Dev\C-Sharp\OOP directory\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+F:\Dev\C-Sharp\OOP directory\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+F:\Dev\C-Sharp\OOP directory\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\OOP directory\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\OOP directory\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+F:\Dev\C-Sharp\OOP directory\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\OOP directory\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+F:\Dev\C-Sharp\OOP directory\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+F:\Dev\C-Sharp\OOP directory\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache
