@@ -52,3 +52,13 @@ Polymorphism means "many forms", and it occurs when we have many classes that ar
 *  **Inheritance** lets us inherit fields and methods from another class. **Polymorphism** uses those methods to perform different tasks. This allows us to perform a single action in different ways.
 ### Example...
 Think of a base class called Animal that has a method called animalSound(). Derived classes of Animals could be Pigs, Cats, Dogs, Birds - And they also have their own implementation of an animal sound (the pig oinks, and the cat meows, etc.)
+
+## Abstract Classes and Methods.
+**Data abstraction** is the process of hiding certain details and showing only essential information to the user.
+
+Abstraction can be achieved with either abstract classes or interfaces
+* **Abstract class:** is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
+* **Abstract method:** can only be used in an abstract class, and it does not have a body. The body is provided by the derived class (inherited from).
+
+## Interface.
+* An interface is a completely **"abstract class"**, which can only contain **abstract methods** and **properties** (with empty bodies):
