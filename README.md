@@ -62,3 +62,7 @@ Abstraction can be achieved with either abstract classes or interfaces
 
 ## Interface.
 * An interface is a completely **"abstract class"**, which can only contain **abstract methods** and **properties** (with empty bodies):
+
+### Why And When To Use Interfaces?
+1) **To achieve security** - hide certain details and only show the important details of an object (interface).
+2) **C# does not support "multiple inheritance"** *(a class can only inherit from one base class)*. However, it can be achieved with interfaces, because the class can implement multiple interfaces. Note: To implement multiple interfaces, separate them with a comma (see example below).
