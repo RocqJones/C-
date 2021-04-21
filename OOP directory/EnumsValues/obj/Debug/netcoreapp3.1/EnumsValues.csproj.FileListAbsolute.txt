@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\OOP directory\EnumsValues\bin\Debug\netcoreapp3.1\EnumsValues.exe
+F:\Dev\C-Sharp\OOP directory\EnumsValues\bin\Debug\netcoreapp3.1\EnumsValues.deps.json
+F:\Dev\C-Sharp\OOP directory\EnumsValues\bin\Debug\netcoreapp3.1\EnumsValues.runtimeconfig.json
+F:\Dev\C-Sharp\OOP directory\EnumsValues\bin\Debug\netcoreapp3.1\EnumsValues.runtimeconfig.dev.json
+F:\Dev\C-Sharp\OOP directory\EnumsValues\bin\Debug\netcoreapp3.1\EnumsValues.dll
+F:\Dev\C-Sharp\OOP directory\EnumsValues\bin\Debug\netcoreapp3.1\EnumsValues.pdb
+F:\Dev\C-Sharp\OOP directory\EnumsValues\obj\Debug\netcoreapp3.1\EnumsValues.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\OOP directory\EnumsValues\obj\Debug\netcoreapp3.1\EnumsValues.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\OOP directory\EnumsValues\obj\Debug\netcoreapp3.1\EnumsValues.AssemblyInfo.cs
+F:\Dev\C-Sharp\OOP directory\EnumsValues\obj\Debug\netcoreapp3.1\EnumsValues.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\OOP directory\EnumsValues\obj\Debug\netcoreapp3.1\EnumsValues.dll
+F:\Dev\C-Sharp\OOP directory\EnumsValues\obj\Debug\netcoreapp3.1\EnumsValues.pdb
+F:\Dev\C-Sharp\OOP directory\EnumsValues\obj\Debug\netcoreapp3.1\EnumsValues.genruntimeconfig.cache
