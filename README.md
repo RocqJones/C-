@@ -66,3 +66,25 @@ Abstraction can be achieved with either abstract classes or interfaces
 ### Why And When To Use Interfaces?
 1) **To achieve security** - hide certain details and only show the important details of an object (interface).
 2) **C# does not support "multiple inheritance"** *(a class can only inherit from one base class)*. However, it can be achieved with interfaces, because the class can implement multiple interfaces. Note: To implement multiple interfaces, separate them with a comma (see example below).
+
+## Enums.
+An `enum` is a special "class" that represents a **group of constants (unchangeable/read-only variables).**
+* To create an enum, use the enum keyword **(instead of class or interface)**, and separate the enum items with a comma.
+
+### Example of Enum inside a class.
+```C#
+class Program
+{
+  enum Level
+  {
+    Low,
+    Medium,
+    High
+  }
+  static void Main(string[] args)
+  {
+    Level myVar = Level.Medium;
+    Console.WriteLine(myVar);
+  }
+}
+```
