@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EnumsWithSwitch/1.0.0": {
+        "runtime": {
+          "EnumsWithSwitch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnumsWithSwitch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

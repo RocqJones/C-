@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\bin\Debug\netcoreapp3.1\EnumsWithSwitch.exe
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\bin\Debug\netcoreapp3.1\EnumsWithSwitch.deps.json
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\bin\Debug\netcoreapp3.1\EnumsWithSwitch.runtimeconfig.json
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\bin\Debug\netcoreapp3.1\EnumsWithSwitch.runtimeconfig.dev.json
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\bin\Debug\netcoreapp3.1\EnumsWithSwitch.dll
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\bin\Debug\netcoreapp3.1\EnumsWithSwitch.pdb
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\obj\Debug\netcoreapp3.1\EnumsWithSwitch.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\obj\Debug\netcoreapp3.1\EnumsWithSwitch.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\obj\Debug\netcoreapp3.1\EnumsWithSwitch.AssemblyInfo.cs
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\obj\Debug\netcoreapp3.1\EnumsWithSwitch.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\obj\Debug\netcoreapp3.1\EnumsWithSwitch.dll
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\obj\Debug\netcoreapp3.1\EnumsWithSwitch.pdb
+F:\Dev\C-Sharp\OOP directory\EnumsWithSwitch\obj\Debug\netcoreapp3.1\EnumsWithSwitch.genruntimeconfig.cache
