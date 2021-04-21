@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\OOP directory\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+F:\Dev\C-Sharp\OOP directory\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+F:\Dev\C-Sharp\OOP directory\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+F:\Dev\C-Sharp\OOP directory\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+F:\Dev\C-Sharp\OOP directory\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+F:\Dev\C-Sharp\OOP directory\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+F:\Dev\C-Sharp\OOP directory\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\OOP directory\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\OOP directory\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+F:\Dev\C-Sharp\OOP directory\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\OOP directory\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+F:\Dev\C-Sharp\OOP directory\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+F:\Dev\C-Sharp\OOP directory\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache
