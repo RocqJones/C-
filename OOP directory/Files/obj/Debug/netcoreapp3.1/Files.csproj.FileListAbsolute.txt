@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\OOP directory\Files\bin\Debug\netcoreapp3.1\Files.exe
+F:\Dev\C-Sharp\OOP directory\Files\bin\Debug\netcoreapp3.1\Files.deps.json
+F:\Dev\C-Sharp\OOP directory\Files\bin\Debug\netcoreapp3.1\Files.runtimeconfig.json
+F:\Dev\C-Sharp\OOP directory\Files\bin\Debug\netcoreapp3.1\Files.runtimeconfig.dev.json
+F:\Dev\C-Sharp\OOP directory\Files\bin\Debug\netcoreapp3.1\Files.dll
+F:\Dev\C-Sharp\OOP directory\Files\bin\Debug\netcoreapp3.1\Files.pdb
+F:\Dev\C-Sharp\OOP directory\Files\obj\Debug\netcoreapp3.1\Files.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\OOP directory\Files\obj\Debug\netcoreapp3.1\Files.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\OOP directory\Files\obj\Debug\netcoreapp3.1\Files.AssemblyInfo.cs
+F:\Dev\C-Sharp\OOP directory\Files\obj\Debug\netcoreapp3.1\Files.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\OOP directory\Files\obj\Debug\netcoreapp3.1\Files.dll
+F:\Dev\C-Sharp\OOP directory\Files\obj\Debug\netcoreapp3.1\Files.pdb
+F:\Dev\C-Sharp\OOP directory\Files\obj\Debug\netcoreapp3.1\Files.genruntimeconfig.cache
