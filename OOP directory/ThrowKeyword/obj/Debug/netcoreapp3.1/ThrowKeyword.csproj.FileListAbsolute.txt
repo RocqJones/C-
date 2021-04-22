@@ -1,0 +1,13 @@
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\bin\Debug\netcoreapp3.1\ThrowKeyword.exe
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\bin\Debug\netcoreapp3.1\ThrowKeyword.deps.json
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\bin\Debug\netcoreapp3.1\ThrowKeyword.runtimeconfig.json
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\bin\Debug\netcoreapp3.1\ThrowKeyword.runtimeconfig.dev.json
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\bin\Debug\netcoreapp3.1\ThrowKeyword.dll
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\bin\Debug\netcoreapp3.1\ThrowKeyword.pdb
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\obj\Debug\netcoreapp3.1\ThrowKeyword.csprojAssemblyReference.cache
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\obj\Debug\netcoreapp3.1\ThrowKeyword.AssemblyInfoInputs.cache
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\obj\Debug\netcoreapp3.1\ThrowKeyword.AssemblyInfo.cs
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\obj\Debug\netcoreapp3.1\ThrowKeyword.csproj.CoreCompileInputs.cache
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\obj\Debug\netcoreapp3.1\ThrowKeyword.dll
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\obj\Debug\netcoreapp3.1\ThrowKeyword.pdb
+F:\Dev\C-Sharp\OOP directory\ThrowKeyword\obj\Debug\netcoreapp3.1\ThrowKeyword.genruntimeconfig.cache
